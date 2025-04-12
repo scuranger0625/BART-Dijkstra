@@ -40,3 +40,12 @@
 ```bash
 pip install -r requirements.txt
 
+---
+本技術為 BART Dijkstra 演算法 由scuranger0625 原創開發。
+
+本開源版本僅供研究與學術用途，若有意將其應用於商業產品、平台或系統，請聯繫作者洽詢商業授權方案。
+
+聯絡方式：
+📧 leon28473787@gmail.com
+
+
